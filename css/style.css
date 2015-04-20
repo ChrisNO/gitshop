@@ -10,7 +10,8 @@
 	src: url('../fonts/Philosopher-Bold/Philosopher-Bold.woff') format('woff'), url('../fonts/Philosopher-Bold/Philosopher-Bold.ttf') format('truetype'), url('../fonts/Philosopher-Bold/Philosopher-Bold.svg') format('svg');
 }
 body {
-	background: url(../images/bg-body.jpg) repeat;
+	background: url(http://stegersaurus.com/MountFriendsMedia/screenBackdropMentlegen.png) repeat;
+	background-size: 1400px 1400px;
 	color: #727272;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
@@ -20,7 +21,7 @@ body {
 	padding: 0;
 }
 #background {
-	background: url(../images/bg-page.jpg) no-repeat top center;
+	background: url() no-repeat top center;
 	margin: 0;
 	padding: 0;
 }
@@ -30,7 +31,7 @@ body {
 	padding: 0;
 }
 #header > div {
-	background: url(../images/bg-header.png) no-repeat top center;
+	background: url(http://www.stegersaurus.com/mountFriendsSteamButton.jpg) no-repeat top center;
 	margin: 0;
 	padding: 0;
 }
@@ -149,7 +150,7 @@ body {
 }
 #body div div .featured {
 	height: 361px;
-	margin: 0;
+	margin-left: 0;
 	padding: 0;
 	position: relative;
 	width: 960px;
